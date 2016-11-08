@@ -1,4 +1,4 @@
-for (var = 100; i >= 0; i-- ) {
-    document.write(i + '<br>'); 
-    
-}
+google.addEventListener('click', function(e) {
+    e.preventDefault();
+    alert('Its a joke!');
+});
