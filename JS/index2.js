@@ -1,9 +1,3 @@
-/*google.addEventListener('click', function(e) {
-    e.preventDefault();
-    alert('Its a joke!');
-});*/
-
-
 var n = 20;
 var fibonacci = [1, 1];
 for ( i = 1; i < n; i++) 
@@ -12,3 +6,4 @@ for ( i = 1; i < n; i++)
     
 }
     console.log(fibonacci(0,n))
+    
