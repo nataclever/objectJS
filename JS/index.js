@@ -6,9 +6,13 @@
 
 var n = 20;
 var fibonacci = [0, 1];
+var i = 0; 
+while (i <= 100);
 for ( i = 2; i < n; i++) 
 { 
     fibonacci[i] = fibonacci [i - 1] + fibonacci[i -2]; 
-    
 }
-    console.log(fibonacci(0,n))
+{
+    console.log(i);
+    i++; }
+
